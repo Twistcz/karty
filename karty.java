@@ -88,7 +88,7 @@ class Balicek{
     }
 }
 
-public class Karty2 {
+public class KartyMain {
 
     public static void main(String[] args) {
         
